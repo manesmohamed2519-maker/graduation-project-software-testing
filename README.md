@@ -1,8 +1,8 @@
-                                                                               # project
+                                                                               # project Automation excercise
                                   ## our team
-                                  *[**1-Manes Mohamed Ahmed]**-[Role in the project]
-                                  *[**2-Judy Waleed Khairy] **-[Role in the project]
-                                  *[**3-Mohamed Wael Shwiel]**-[Role in the project]
-                                  *[**4-Anas Essam Mohamed]**-[Role in the project]
-                                  *[**5-Mohamed Amer Mohamed]**-[Role in the project]
-                                  *[**6-Yara Mohamed Ahmed]**-[Role in the project]
+                                  *[**1-Manes Mohamed Ahmed]**-[automation tester(ui)]
+                                  *[**2-Judy Waleed Khairy] **-[test lead / coordinator]
+                                  *[**3-Mohamed Wael Shwiel]**-[api tester]
+                                  *[**4-Anas Essam Mohamed]**-[manual tester(test case designer)]
+                                  *[**5-Mohamed Amer Mohamed]**-[dicumentation & presentation]
+                                  *[**6-Yara Mohamed Ahmed]**-[manual tester ((excutation &bug reportiory]

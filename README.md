@@ -38,7 +38,4 @@ This project is for educational purposes only.
                                   *[**3-Mohamed Wael Shwiel]**-[api tester]
                                   *[**4-Anas Essam Mohamed]**-[manual tester(test case designer)]
                                   *[**5-Mohamed Amer Mohamed]**-[dicumentation & presentation]
-                                  *[**6-Yara Mohamed Ahmed]**-[manual tester ((excutation &bug reportiory]
-project file 
-https://docs.google.com/document/d/1K5K23mK7IRn_VyjFvTRfFfzM8wtWupZR/edit?usp=drive_link&ouid=100654235798254477563&rtpof=true&sd=true
-,,, https://drive.google.com/drive/folders/1fWtfs8AGuzwsgbkOuupGAqJytcituPIt
+                                  *[**6-Yara Mohamed Ahmed]**-[manual tester ((excutation )] https://drive.google.com/drive/folders/1fWtfs8AGuzwsgbkOuupGAqJytcituPIt

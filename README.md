@@ -1,43 +1,91 @@
                                                                                # project Automation excercise
                                   
-              :
+        ⭐ Project Name  
+**Testing Automation Exercise Website**
 
-# Graduation Project – Software Testing  
+---
 
-## 📌 Overview  
-This project focuses on *Software Testing* concepts and implementation.  
-It demonstrates different testing techniques, automation practices, and real-life applications to ensure software quality.  
+## 📌 Project Idea  
+The purpose of this project is to perform manual, automated, and API testing on the **Automation Exercise** website.  
+The project includes:  
+- Creating detailed manual test cases (Excel)  
+- Writing and executing automation test scripts  
+- Performing API testing  
+- Identifying, documenting, and reporting bugs  
+- Evaluating the overall functionality and performance  
 
-## 🎯 Objectives  
-- Apply *manual* and *automated testing* techniques.  
-- Design and execute *test cases*.  
-- Ensure *software reliability, performance, and security*.  
-- Provide documentation and reporting for test results.  
+---
 
-## 🛠 Technologies Used  
-- Programming Language: Java / Python (depending on project setup)  
-- Testing Tools: JUnit, Selenium, or similar frameworks  
-- Version Control: Git & GitHub  
+## 👥 Team Members (pentaRae)  
+- judy waleed khairy
+- yara mohamed ahmed
+- manes mohamed ahmed 
+- shahd nagi mohamed
+- mohamed amer mohamed
+- anas essam mohamed
+- mohamed wael shwiel
 
-## 🚀 How to Run  
-1. Clone the repository:  
-   ```bash
-   git clone <repository-link>
+---
 
-2. Open the project in your IDE.
+## 📝 Work Plan  
+
+### **1. Research & Analysis**  
+- Understanding website structure  
+- Identifying all main features  
+- Reviewing potential weak points  
+
+### **2. Test Planning**  
+- Defining test scope and objectives  
+- Selecting testing types (Manual, Automation, API)  
+- Identifying required tools  
+
+### **3. Test Case Design**  
+- Manual test cases (Excel)  
+- Automation test cases  
+- API test cases  
+- Negative & edge cases  
+
+### **4. Test Execution**  
+- Manual test execution  
+- Running automation scripts  
+- API testing  
+- Bug reporting  
+
+### **5. Review & Finalization**  
+- Reviewing test results  
+- Final bug reporting  
+- Preparing final documentation  
+
+### **6. Final Presentation**  
+- Presenting project outcomes  
+- Showing results  
+- Demonstrating automation execution  
+
+---
+
+## 🎯 Roles & Responsibilities  
+- 
+
+---
+
+## 📊 KPIs (Key Performance Indicators)  
+Metrics used to measure project success:  
+- Bug detection rate  
+- Test coverage percentage  
+- Automation pass rate  
+- API response accuracy  
+- Time taken per test cycle  
+
+---
+
+## 👨‍🏫 Instructor  
+**Eng. Abdelrahman Osama**
+
+---
 
 
-3. Run the test cases.
 
 
-This project is for educational purposes only.
-👥 Team Members
-
-                   *[**1-Manes Mohamed Ahmed]**-[automation tester(ui)]
-                                  *[**2-Judy Waleed Khairy] **-[test lead / coordinator]
-                                  *[**3-Mohamed Wael Shwiel]**-[api tester]
-                                  *[**4-Anas Essam Mohamed]**-[manual tester(test case designer)]
-                                  *[**5-Mohamed Amer Mohamed]**-[dicumentation & presentation]
-                                  *[**6-Yara Mohamed Ahmed]**-[manual tester 
-project folder 📂 
+project folder 📂
+you can find all the files here
 https://drive.google.com/drive/folders/1fWtfs8AGuzwsgbkOuupGAqJytcituPIt
